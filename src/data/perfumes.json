@@ -1,0 +1,328 @@
+[
+    {
+        "id": "1",
+        "brand": "Le Labo",
+        "name": "Santal 33",
+        "family": "Woody",
+        "notes": {
+            "top": [
+                "Violet Accord",
+                "Cardamom"
+            ],
+            "middle": [
+                "Iris",
+                "Ambrox"
+            ],
+            "base": [
+                "Cedarwood",
+                "Leather",
+                "Sandalwood"
+            ]
+        },
+        "description": "An intoxicating blend of woody spices and leather that evokes the spirit of the American West.",
+        "tags": [
+            "Woody",
+            "Unisex",
+            "Iconic",
+            "Warm"
+        ],
+        "link": "https://www.lelabofragrances.com/santal-33-149.html",
+        "vector": []
+    },
+    {
+        "id": "2",
+        "brand": "Diptyque",
+        "name": "Philosykos",
+        "family": "Green",
+        "notes": {
+            "top": [
+                "Fig Leaf",
+                "Fig"
+            ],
+            "middle": [
+                "Green Notes",
+                "Coconut"
+            ],
+            "base": [
+                "Cedar",
+                "Woody Notes",
+                "Fig Tree"
+            ]
+        },
+        "description": "The memory of a Greek summer on Mount Pelion. A fresh, green, and woody fig scent.",
+        "tags": [
+            "Green",
+            "Fresh",
+            "Summer",
+            "Clean"
+        ],
+        "link": "https://www.diptyqueparis.com/en_super/p/philosykos-eau-de-toilette-100ml",
+        "vector": []
+    },
+    {
+        "id": "3",
+        "brand": "Byredo",
+        "name": "Gypsy Water",
+        "family": "Woody Aromatic",
+        "notes": {
+            "top": [
+                "Juniper",
+                "Lemon",
+                "Bergamot",
+                "Pepper"
+            ],
+            "middle": [
+                "Pine Needles",
+                "Incense",
+                "Orris Root"
+            ],
+            "base": [
+                "Sandalwood",
+                "Vanilla",
+                "Amber"
+            ]
+        },
+        "description": "A glamorization of the Romany lifestyle, based on unique scents of fresh soil and deep forests.",
+        "tags": [
+            "Fresh",
+            "Woody",
+            "Light",
+            "Bohemian"
+        ],
+        "link": "https://www.byredo.com/us_en/gypsy-water-eau-de-parfum-100ml",
+        "vector": []
+    },
+    {
+        "id": "4",
+        "brand": "Maison Margiela",
+        "name": "Jazz Club",
+        "family": "Leather",
+        "notes": {
+            "top": [
+                "Pink Pepper",
+                "Neroli",
+                "Lemon"
+            ],
+            "middle": [
+                "Rum",
+                "Java Vetiver Oil",
+                "Clary Sage"
+            ],
+            "base": [
+                "Tobacco Leaf",
+                "Vanilla Bean",
+                "Styrax"
+            ]
+        },
+        "description": "Heady cocktails and cigars. A smooth, warm, and spicy fragrance perfect for evening wear.",
+        "tags": [
+            "Warm",
+            "Spicy",
+            "Night",
+            "Boozy"
+        ],
+        "link": "https://www.maisonmargiela-fragrances.us/fragrances/replica/replica-jazz-club/MM005.html",
+        "vector": []
+    },
+    {
+        "id": "5",
+        "brand": "YSL",
+        "name": "Black Opium",
+        "family": "Oriental Vanilla",
+        "notes": {
+            "top": [
+                "Pear",
+                "Pink Pepper",
+                "Orange Blossom"
+            ],
+            "middle": [
+                "Coffee",
+                "Jasmine",
+                "Bitter Almond",
+                "Licorice"
+            ],
+            "base": [
+                "Vanilla",
+                "Patchouli",
+                "Cedar",
+                "Cashmere Wood"
+            ]
+        },
+        "description": "A glam rock fragrance full of mystery and energy. High on adrenaline.",
+        "tags": [
+            "Sweet",
+            "Gourmand",
+            "Night",
+            "Sexy"
+        ],
+        "link": "https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/black-opium-eau-de-parfum/1146YSL.html",
+        "vector": []
+    },
+    {
+        "id": "6",
+        "brand": "Acqua di Parma",
+        "name": "Colonia",
+        "family": "Citrus",
+        "notes": {
+            "top": [
+                "Lemon",
+                "Sweet Orange",
+                "Calabrian Bergamot"
+            ],
+            "middle": [
+                "Lavender",
+                "Bulgarian Rose",
+                "Verbena",
+                "Rosemary"
+            ],
+            "base": [
+                "Vetiver",
+                "Sandalwood",
+                "Patchouli"
+            ]
+        },
+        "description": "A fresh, refined, and timeless fragrance for the pragmatic and successful man.",
+        "tags": [
+            "Citrus",
+            "Fresh",
+            "Classic",
+            "Summer"
+        ],
+        "link": "https://www.acquadiparma.com/en/gb/colonia-eau-de-cologne/C00996.html",
+        "vector": []
+    },
+    {
+        "id": "7",
+        "brand": "Tom Ford",
+        "name": "Tobacco Vanille",
+        "family": "Oriental Spicy",
+        "notes": {
+            "top": [
+                "Tobacco Leaf",
+                "Spicy Notes"
+            ],
+            "middle": [
+                "Tonka Bean",
+                "Tobacco Blossom",
+                "Vanilla",
+                "Cacao"
+            ],
+            "base": [
+                "Dried Fruits",
+                "Woody Notes"
+            ]
+        },
+        "description": "Opulent. Warm. Iconic. Reminiscent of an English Gentleman’s Club.",
+        "tags": [
+            "Sweet",
+            "Tobacco",
+            "Warm",
+            "Winter"
+        ],
+        "link": "https://www.tomford.com/tobacco-vanille-eau-de-parfum/T0-TOBACCO-VANILLE.html",
+        "vector": []
+    },
+    {
+        "id": "8",
+        "brand": "Chanel",
+        "name": "Bleu de Chanel",
+        "family": "Woody Aromatic",
+        "notes": {
+            "top": [
+                "Grapefruit",
+                "Lemon",
+                "Mint",
+                "Pink Pepper"
+            ],
+            "middle": [
+                "Ginger",
+                "Nutmeg",
+                "Jasmine",
+                "Iso E Super"
+            ],
+            "base": [
+                "Incense",
+                "Vetiver",
+                "Cedar",
+                "Sandalwood"
+            ]
+        },
+        "description": "A tribute to masculine freedom. A timeless wood aromatic fragrance.",
+        "tags": [
+            "Fresh",
+            "Citrus",
+            "Office",
+            "Clean"
+        ],
+        "link": "https://www.chanel.com/us/fragrance/p/107460/bleu-de-chanel-eau-de-parfum-spray/",
+        "vector": []
+    },
+    {
+        "id": "9",
+        "brand": "Dior",
+        "name": "Sauvage",
+        "family": "Aromatic Fougere",
+        "notes": {
+            "top": [
+                "Calabrian Bergamot",
+                "Pepper"
+            ],
+            "middle": [
+                "Sichuan Pepper",
+                "Lavender",
+                "Pink Pepper",
+                "Vetiver",
+                "Patchouli"
+            ],
+            "base": [
+                "Ambroxan",
+                "Cedar",
+                "Labdanum"
+            ]
+        },
+        "description": "Raw and noble. A composition prevalent with natural ingredients.",
+        "tags": [
+            "Fresh",
+            "Spicy",
+            "Loud",
+            "Party"
+        ],
+        "link": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-toilette-Y0685240.html",
+        "vector": []
+    },
+    {
+        "id": "10",
+        "brand": "Creed",
+        "name": "Aventus",
+        "family": "Chypre Fruity",
+        "notes": {
+            "top": [
+                "Pineapple",
+                "Bergamot",
+                "Black Currant",
+                "Apple"
+            ],
+            "middle": [
+                "Birch",
+                "Patchouli",
+                "Moroccan Jasmine",
+                "Rose"
+            ],
+            "base": [
+                "Musk",
+                "Oak Moss",
+                "Ambergris",
+                "Vanille"
+            ]
+        },
+        "description": "The exceptional Aventus was inspired by the dramatic life of a historic emperor.",
+        "tags": [
+            "Fruity",
+            "Smoky",
+            "Luxury",
+            "Success"
+        ],
+        "link": "https://creedboutique.com/products/aventus",
+        "vector": []
+    }
+]
